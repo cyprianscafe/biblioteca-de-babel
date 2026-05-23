@@ -39,6 +39,16 @@ Como este espaço funciona como um repositório puro de arquivos, o canal aberto
 ---
 
 <p align="center">
+  <samp>🌐 <b>REDE DE ARQUIVOS CIPRIANO</b> 🌐</samp><br>
+  Navegue pelas diferentes prateleiras do acervo público:
+</p>
+
+  📜 <a href="https://github.com/cyprianscafe/scriptorium"><b>Scriptorium</b></a> (Fontes Primárias & Íntegras) <br>
+  🔮 <a href="https://github.com/cyprianscafe/ars-oculta"><b>Ars-Oculta</b></a> (Esoterismo & Alta Magia) <br>
+
+---
+
+<p align="center">
   <small>
     <i>"Fiz um esforço incessante não para ridicularizar, não para lamentar, nem para desprezar as ações humanas, mas para compreendê-las."</i> <br>
     — Baruch Spinoza, filósofo holandês do século XVII
