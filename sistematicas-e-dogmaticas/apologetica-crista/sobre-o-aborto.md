@@ -1,4 +1,4 @@
-# Visão cristã sobre o aborto
+# ✧ Visão cristã sobre o aborto ✧
 
 A Bíblia ensina que os seres humanos são criados à imagem de Deus. Também ensina que a humanidade tem domínio sobre o resto da criação, mas isso não inclui as pessoas. Quando Caim matou seu irmão, Deus o puniu.
 
@@ -47,16 +47,28 @@ Um resumo é o seguinte: "Nele encontramos uma mulher perdendo seu filho ao ser 
 **Igreja da Inglaterra:** Opõe-se fortemente ao aborto, porque "[t]oda a vida humana, incluindo a vida em desenvolvimento no útero, é criada por Deus à sua própria imagem e deve, portanto, ser nutrida, apoiada e protegida." No entanto, também reconhece que pode haver condições "estritamente limitadas" "sob as quais [o aborto] pode ser moralmente preferível a qualquer alternativa disponível" e que "[t]odo apoio possível" precisa ser dado às mulheres que estão grávidas em circunstâncias difíceis. Geralmente acredita que o número de abortos realizados no Reino Unido é "inaceitavelmente alto"."
 
 ---
+
 <details>
   <summary>Tags e outras nerdices</summary>
   
   ### Dados de Arquivo
-  - **Categoria Secundária:** Teologia Moral / Ética Cristã
-  - **Manuscrito de Origem:** SHOK Archive
+  - **Formato do Material:** Excerto Isolado / Apologética Cristã
+  - **Linhagem/Tradição:** Teologia Cristã Evangélica
   - **Autor:** James Patrick Holding
-  - **PA Source:** N/A
-  - **Data da tradução:** N/A
-  - **Idioma original:** Inglês
-  - **Palavras-chave adicionais:** Aborto, Bíblia, Hermenêutica, Personificação do feto, Posicionamento denominacional, Antigo Testamento, Apologética
+  - **Origem:** Publicado no _Tekton Apologetics Ministries_
+  - **Idioma Original:** Inglês
+  - **Grau de Confiabilidade:** Fragmento Web
+  
+  ### Bastidores da Tradução
+  - **Status do Texto:** Traduzido integralmente (Concluído)
+  - **Solicitado por:** Suzy_0777 no FoF. Fun fact: duas pessoas foram banidas por causa desse post... amo caos.
+
+  ### Conexões e Busca
+  - **Categoria Secundária:** Hermenêutica Bíblica e Crítica Textual / Sociologia da Religião / Opinião Teológica Informal
+  - **Tópicos Transversais:** Bioética, Antigo Testamento, Direito Semítico Antigo, Escatologia e Sabedoria, Posicionamentos Denominacionais Contemporâneos
+  - **Tags Principais:** Aborto, Bíblia, Jeremias 1:5, Êxodo 21:22-25, Eclesiastes 6:3-5, Personalidade Fetal, Totalidade Semítica, Igreja Católica Romana, Convenção Batista do Sul, Igreja Metodista Unida
+  - **Tags Adicionais:** Pró-vida, Bioética Cristã, Hermenêutica Teológica, Direitos do Nascituro, Antropologia Bíblica, Mortalidade Infantil na Antiguidade
+
+💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
   
 </details>
