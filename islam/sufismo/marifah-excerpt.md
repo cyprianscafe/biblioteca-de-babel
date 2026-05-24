@@ -1,4 +1,4 @@
-## **A REVELAÇÃO DO PRIMEIRO VÉU: CONCERNENTE À GNOSE DE DEUS (ma'rifat Allah).**
+## ✧ A REVELAÇÃO DO PRIMEIRO VÉU: CONCERNENTE À GNOSE DE DEUS (ma'rifat Allah). ✧
 
 O Apóstolo disse: 'Se conhecêsseis a Deus como Ele deve ser conhecido, caminharíeis sobre os mares, e as montanhas se moveriam ao vosso chamado.'
 
@@ -89,21 +89,34 @@ Há uma grande diferença entre quem se volta para o coração e quem se volta p
 ¹ Ver Nafahat, No. 373.   
 ² Ver Baydawi no Alcorão 7:74.   
 ³ Ver Goldziher e Landberg, *Die Legende vom Monch Barsisa* (1896), e M. Hartmann, *Der heilige Barsisa in Der Islamische Orient* (1905, vol. 1, 23-8).   
-⁴ Nota do tradutor: o termo traduzido textualmente do manuscrito como '*soul*' no primeiro caso indica o órgão sutil do coração espiritual (*dil*).   
-
-Do *Kashf al-mahjub* (A Revelação do Velado) por 'Ali ibn 'Uthman al-Jullabi al-Hujwiri, conhecido como Data Ganj Bakhsh na região do Indo-Paquistão. Traduzido por Reynold Nicholson. Nova Edição, Londres: Luzac, 1967, pp. 267-277."
+⁴ Nota da tradutora: o termo traduzido textualmente do manuscrito como '*soul*' no primeiro caso indica o órgão sutil do coração espiritual (*dil*).   
 
 ---
+
 <details>
   <summary>Tags e outras nerdices</summary>
   
   ### Dados de Arquivo
-  - **Categoria Secundária:** Sufismo / Mística Islâmica / Filosofia Islâmica Clássica
-  - **Manuscrito de Origem:** Kashf al-mahjub (A Revelação do Velado)
-  - **Autor:** 'Ali ibn 'Uthman al-Jullabi al-Hujwiri (Data Ganj Bakhsh)
-  - **PA Source:** N/A
-  - **Data da tradução:** 19.05.2026
-  - **Idioma original:** Inglês (Traduzido do original persa por Reynold Nicholson)
-  - **Palavras-chave adicionais:** Gnose (Ma'rifat), Al-Hujwiri, Misticismo Sufi, Conhecimento de Deus, Razão vs. Intuição, Espanto Perpétuo (Hayrat), Teologia Islâmica
+  - **Formato do Material:** Capítulo de Livro
+  - **Linhagem/Tradição:** Sufismo Clássico
+  - **Período Histórico:** Século XI
+  - **Autor:** Ali al-Hujwiri (também conhecido popularmente no Sul da Ásia como Data Ganj Baksh)
+  - **Manuscrito de Origem:** _Kashf al-Mahjub_ (A Revelação do Velado) | pp. 267-277
+  - **Idioma Original:** Persa
+  - **Região:** Ghazna (no atual Afeganistão) e Lahore (no atual Paquistão)
+  - **Grau de Confiabilidade:** Fonte Primária Acadêmica
+  
+  ### Bastidores da Tradução
+  - **Data da Tradução:** N/A
+  - **Projeto:** Iniciativa Vozes do Oriente
+  - **Status do Texto:** Traduzido integralmente (Concluído)
+
+  ### Conexões e Busca
+  - **Categoria Secundária:** Filosofia da Religião, Epistemologia Islâmica e Teologia Especulativa (_Kalam_)
+  - **Tópicos Transversais:** Limites da razão humana; A natureza da iluminação espiritual; Misticismo comparado; Racionalismo vs. Fideísmo no Islam medieval
+  - **Tags Principais:** Gnose (ma'rifat), Cognição ('ilm), Razão ('áqil), Aniquilação (fana), Espanto (hayrat), Sufismo, Al-Hujwiri, Demonstração (istidlál), Inspiração (ilham), Conhecimento Intuitivo (daruri)
+  - **Tags Adicionais:** Epistemologia mística, Teologia Ash'arita, Crítica ao Mu'tazilismo, Psicologia espiritual, Desconstrução do ego, Misticismo Persa, Transcendência divina, Paradoxos da fé
+
+💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
   
 </details>
