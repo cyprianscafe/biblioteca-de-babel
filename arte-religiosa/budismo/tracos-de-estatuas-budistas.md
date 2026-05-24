@@ -20,7 +20,6 @@ Na tradição budista, existiram muitos Budas. Algumas pessoas dizem quatro, sen
   ### Bastidores da Tradução
   - **Data da Tradução:** N/A
   - **Status do Texto:** Traduzido integralmente (Concluído)
-  - **Ações Pendentes:** (Correções, notas importantes, mudanças de formatação, erros de tradução que precisam ser corrigidos, termos que poderiam ser traduzidos de forma mais efetiva, etc.)
 
   ### Conexões e Busca
   - **Categoria Secundária:** História da Arte / Iconografia Religiosa Comparada
