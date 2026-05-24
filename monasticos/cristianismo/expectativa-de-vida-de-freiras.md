@@ -1,4 +1,4 @@
-# Expectativa de vida de uma freira americana
+# ✧ Expectativa de vida de uma freira americana ✧
 
 As freiras católicas americanas apresentam desfechos de saúde física e psicológica mais positivos do que suas pares. Como um todo, foi documentado que elas experimentam não apenas vidas mais longas, mas também maior saúde física e bem-estar psicológico à medida que envelhecem. Há uma série de fatores diretos que contribuem para a saúde das freiras, tais como nutrição consistente e ensino superior, mas a história de sua notável saúde e bem-estar na idade avançada não é tão simples quanto ensino superior e nutrição. Os desfechos de saúde positivos das freiras também são moldados por suas práticas culturais. Como rezam, como falam umas com as outras, como oferecem e recebem apoio social e como entendem o que significa ser um ser humano envelhecendo em anos: todas essas práticas culturais moldam profundamente as experiências das freiras em relação ao envelhecimento, à dor e ao fim da vida.
 
@@ -9,16 +9,25 @@ Houve centenas de artigos publicados sobre o envelhecimento entre freiras catól
 Outro estudo analisou escritos e narrativas pessoais redigidos pelas freiras quando elas entraram no convento. Parece que uma menor habilidade linguística no início da vida tem uma forte relação com uma função cognitiva deficitária e demência na fase tardia da vida (Snowdon et al. 1996). Em outras palavras, as freiras que usavam uma linguagem mais complexa em suas narrativas escritas quando jovens tinham maior probabilidade de manter uma função cognitiva superior à medida que envelheciam. Outra análise linguística dos arquivos das freiras descobriu que emoções positivas estavam associadas à longevidade seis décadas após as freiras terem escrito as narrativas (Danner, Snowdon e Friesen 2001). O que quer que tenha sido capturado pelas palavras que descreviam emoções positivas nas narrativas das jovens freiras (talvez emoção, estado psicológico, uma orientação em relação ao mundo ou um senso de obrigação de expressar uma perspectiva emocional específica, o que não pode ser identificado sem dados etnográficos) predisse a duração e a saúde da vida das freiras. As expressões da linguagem, portanto, pareciam estar poderosamente correlacionadas com a saúde à medida que as irmãs envelheciam.
 
 ---
+
 <details>
   <summary>Tags e outras nerdices</summary>
   
   ### Dados de Arquivo
-  - **Categoria Secundária:** Gerontologia / Saúde Pública / Antropologia da Saúde
-  - **Manuscrito de Origem:** N/A
-  - **Autor:** N/A
-  - **PA Source:** N/A
-  - **Data da tradução:** N/A
-  - **Idioma original:** Inglês
-  - **Palavras-chave adicionais:** Catolicismo, Freiras católicas, Envelhecimento, Conventos
+  - **Formato do Material:** Excerto Isolado
+  - **Linhagem/Tradição:** Catolicismo Romano / Práticas Monásticas Femininas
+  - **Idioma Original:** Inglês
+  - **Região:** EUA
+  - **Grau de Confiabilidade:** Fonte Secundária Acadêmica
+  
+  ### Bastidores da Tradução
+  - **Status do Texto:** Excerto traduzido (Concluído)
+
+  ### Conexões e Busca
+  - **Categoria Secundária:** Antropologia da Saúde / Sociologia da Religião
+  - **Tags Principais:** Freiras católicas
+  - **Tags Adicionais:** Nun Study, Monásticos, Catolicismo, Conventos, Freiras
+
+💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
   
 </details>
