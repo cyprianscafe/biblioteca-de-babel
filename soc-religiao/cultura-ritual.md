@@ -47,6 +47,6 @@ Há um ponto final a ser feito sobre os papéis rituais. Para os adoradores huma
   - **Tags Principais:** Cultura Ritual, Jainismo, Performance Cultural, Eficácia, Adoração Óctupla (astprakari puja), Papéis Rituais, Objeto de Adoração, Teatro, Identidades Soteriológicas
   - **Tags Adicionais:** Richard Schechner, Milton Singer, Etnografia da Índia, Shvetambara, Antropologia Simbólica, Agência de Objetos Inanimados, Ritualismo Comparado, Sociologia da Interação
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
