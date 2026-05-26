@@ -28,6 +28,6 @@ Outro estudo analisou escritos e narrativas pessoais redigidos pelas freiras qua
   - **Tags Principais:** Freiras católicas
   - **Tags Adicionais:** Nun Study, Monásticos, Catolicismo, Conventos, Freiras
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
