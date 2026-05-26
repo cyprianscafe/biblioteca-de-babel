@@ -69,6 +69,6 @@ Um resumo é o seguinte: "Nele encontramos uma mulher perdendo seu filho ao ser 
   - **Tags Principais:** Aborto, Bíblia, Jeremias 1:5, Êxodo 21:22-25, Eclesiastes 6:3-5, Personalidade Fetal, Totalidade Semítica, Igreja Católica Romana, Convenção Batista do Sul, Igreja Metodista Unida
   - **Tags Adicionais:** Pró-vida, Bioética Cristã, Hermenêutica Teológica, Direitos do Nascituro, Antropologia Bíblica, Mortalidade Infantil na Antiguidade
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
