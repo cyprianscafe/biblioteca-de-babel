@@ -86,10 +86,10 @@ Há uma grande diferença entre quem se volta para o coração e quem se volta p
 
 ---
 
-¹ Ver Nafahat, No. 373.   
+<sub>¹ Ver Nafahat, No. 373.   
 ² Ver Baydawi no Alcorão 7:74.   
 ³ Ver Goldziher e Landberg, *Die Legende vom Monch Barsisa* (1896), e M. Hartmann, *Der heilige Barsisa in Der Islamische Orient* (1905, vol. 1, 23-8).   
-⁴ Nota da tradutora: o termo traduzido textualmente do manuscrito como '*soul*' no primeiro caso indica o órgão sutil do coração espiritual (*dil*).   
+⁴ Nota da tradutora: o termo traduzido textualmente do manuscrito como '*soul*' no primeiro caso indica o órgão sutil do coração espiritual (*dil*).</sub>
 
 ---
 
@@ -117,6 +117,6 @@ Há uma grande diferença entre quem se volta para o coração e quem se volta p
   - **Tags Principais:** Gnose (ma'rifat), Cognição ('ilm), Razão ('áqil), Aniquilação (fana), Espanto (hayrat), Sufismo, Al-Hujwiri, Demonstração (istidlál), Inspiração (ilham), Conhecimento Intuitivo (daruri)
   - **Tags Adicionais:** Epistemologia mística, Teologia Ash'arita, Crítica ao Mu'tazilismo, Psicologia espiritual, Desconstrução do ego, Misticismo Persa, Transcendência divina, Paradoxos da fé
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
