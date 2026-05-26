@@ -27,6 +27,6 @@ Na tradição budista, existiram muitos Budas. Algumas pessoas dizem quatro, sen
   - **Tags Principais:** Buda, Siddhartha Gautama, Múltiplos braços, Budismo Tibetano, Budismo Theravada, Avalokitesvara, Ganesh, Trono de elefante, Naga, Reencarnação, Buda Maitreya, Histórias Jataka
   - **Tags Adicionais:** Iconografia budista, Bodhisattva, Vajrayana, Arte de Gandhara, Mudras, Simbolismo das serpentes, Escultura em bronze do século XIV, Policefalia (múltiplas cabeças)
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
