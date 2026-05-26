@@ -42,6 +42,6 @@ O defeito _[na maioria das pessoas]_ decorre do fato de que elas não olham para
   - **Tags Principais:** Shams, Layla, Majnun, Rumi, Harun al-Rashid, Alcorão 5:54, Sufis, Amor
   - **Tags Adicionais:** Maqalat, Misticismo Islâmico, Epistemologia Sufi, Teologia do Coração, Ascetismo, Literatura Persa, Konya
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
