@@ -36,6 +36,6 @@ No País de Gales, a Aurora Boreal tornou-se Caer Arianrhod, a fortaleza da filh
   - **Tags Principais:** Aurora Boreal, Ilhas Britânicas, Escócia, Inglaterra, Conde de Derwentwater, Fir Chlis, An linne fhuil, Fuil siochare, Sangue de Fada, Shetland, País de Gales, Caer Arianrhod, Dinas Dinlle
   - **Tags Adicionais:** Tempestades Geomagnéticas, Tempestade Solar de 1716, Levantes Jacobitas, Folclore Gaélico Escocês, Mitologia Galesa, Pedra de Sangue (Heliotrópio), Tradição Meteorológica, Augúrios Celestiais, Exércitos Fantasmas, Astromitologia
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
