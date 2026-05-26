@@ -3,11 +3,7 @@
 </p>
 
 <p align="center">
-  <i>Fragmentos, excertos e notas sobre sociologia da religião, arte sacra e meta-tópicos teológicos.</i>
-</p>
-
-<p align="center">
-  O acervo oficial de recursos secundários e traduções menores do <b>Cyprian's Cafe</b>.
+  <i><sub>Fragmentos, excertos e notas sobre sociologia da religião, arte sacra e meta-tópicos teológicos.</sub></i>
 </p>
 
 ---
@@ -49,8 +45,8 @@ Como este espaço funciona como um repositório puro de arquivos, o canal aberto
 ---
 
 <p align="center">
-  <small>
+  <sub>
     <i>"Fiz um esforço incessante não para ridicularizar, não para lamentar, nem para desprezar as ações humanas, mas para compreendê-las."</i> <br>
     — Baruch Spinoza, filósofo holandês do século XVII
-  </small>
+  </sub>
 </p>
