@@ -62,7 +62,7 @@ No **capítulo 62**, Ishvara fala da Suvasini, de suas características e da _sa
 
 No **capítulo 63**, o importante assunto da adoração sexual das Shaktis é discutido. Shiva descreve a vira _sadhana_ e diz que uma vez que o sêmen é emitido usando este rito, ele deve ser oferecido à Shakti. Substâncias sagradas incluem sêmen, sangue menstrual e urina, diz o texto. Se uma pessoa adora dessa maneira sem ser devidamente iniciada, o texto adverte, é o equivalente a assassinar um brâmane, e ela acaba nos diferentes infernos disponíveis na tradição hindu. Você não pode adotar este método lendo-o em um livro, continua.
 
-No capítulo 64, o assunto da criação de um _pavitra_ é aludido, junto com o método ritual para consagrá-lo. O último capítulo, de número 65, fala, com alguns detalhes, de um rito de subjugação.
+No **capítulo 64**, o assunto da criação de um _pavitra_ é aludido, junto com o método ritual para consagrá-lo. O último capítulo, de **número 65**, fala, com alguns detalhes, de um rito de subjugação.
 
 ---
 
