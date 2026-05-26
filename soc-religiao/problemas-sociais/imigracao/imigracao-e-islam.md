@@ -29,7 +29,7 @@ Se alguém quiser compreender o domínio do nacionalismo territorial sobre a ima
   - **Tags Principais:** dar al-Islam; umma; muʾakha; sistema kafala; Arábia Saudita; Hejaz; diyafa; nacionalismo territorial; migração; hospitalidade islâmica
   - **Tags Adicionais:** Khaled Abou El Fadl; Direitos dos Trabalhadores Migrantes; Jurisprudência Islâmica Clássica (Fiqh)
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
 
