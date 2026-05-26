@@ -32,6 +32,6 @@ A Convenção de Refugiados protegia categorias específicas de pessoas que são
   - **Tags Principais:** Convenção de Refugiados, Artigo 33, Non-refoulement, Migrantes Forçados, Deslocamento Interno, Convenção Contra a Tortura, Repatriação Voluntária, Integração Local, Reassentamento Seguro, Alto Comissariado das Nações Unidas para os Refugiados (ACNUR), Soberania Nacional, Crise de Refugiados
   - **Tags Adicionais:** Direito Internacional dos Direitos Humanos (DIDH), Direito Internacional Humanitário (DIH), Estatuto dos Refugiados de 1951, Protocolo de 1967, Justiça Distributiva Global, Justa Compensação Financeira, Custos de Guerra, Migração Econômica, Governança Global, Fronteiras Internacionais
 
-💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*
+<sub>💬 *Gostaria de ver um texto específico traduzido ou catalogado por aqui? Pedidos de tradução e buscas de fontes estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>
   
 </details>
