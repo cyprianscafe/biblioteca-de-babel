@@ -1,0 +1,100 @@
+<h1 align="center">✧ Panorama Mundial Emergente ✧</h1>
+<p align="center">por <b>Rolf Edberg</b></p>
+
+>Uma visão leiga sobre a responsabilidade da ciência  
+[Discurso proferido na Universidade de Gotemburgo em 19 de outubro de 1974, ao receber o título honorário de Doutor em Filosofia. O Dr. Edberg é governador da província de Värmland e um renomado autor sueco.]
+
+Estamos viajando por uma terra da qual só conseguimos vislumbrar rapidamente. Para onde vamos, não sabemos.
+
+Em nossa geração, porém, entramos em uma fase de horizontes que se retraem rapidamente. Nossa busca revelou mais, durante a última geração, do que em toda a jornada até aqui, sobre o próprio homem, seu mundo e o cosmos em que existimos.
+
+O que caracteriza o ser humano como um ser inteligente é a sua capacidade de construir em si mesmo um modelo da realidade externa que acredita perceber. Esse modelo está em processo de reformulação radical.
+
+Se observarmos nosso globo terrestre, descobriremos repentinamente que os continentes, onde nos multiplicamos e criamos o que chamamos de história mundial, não são as rochas imóveis que supúnhamos há algumas décadas. Em vez disso, acreditamos que flutuam como blocos de gelo no interior plástico da Terra, que os oceanos se abrem onde esses blocos se separam e que as cadeias de montanhas se formam onde os blocos à deriva se pressionam inexoravelmente uns contra os outros durante períodos invisíveis ao homem, mas em escala geológica. Assim como as rochas continentais se transformam em blocos de gelo à deriva, outras formas, até então consideradas estáveis, se dissolvem. O próprio globo, que gira envolto no véu de sua atmosfera, mas também contido no que começa a ser chamado de atmosfera solar, não possui limites sólidos, mas está em constante troca de partículas com o universo. Ao ouvirmos o tique-taque radioativo dos próprios relógios da matéria e ao decifrarmos o código antigo, mas recentemente descoberto, das partículas magnéticas que chegaram ao nosso planeta ao longo dos tempos e se organizaram em padrões distintos, principalmente nos sedimentos sob os oceanos, começamos a obter uma imagem nova e mais precisa da história da Terra.
+
+Com nossos radiotelescópios, podemos penetrar simultaneamente no universo bilhões de anos-luz antes do momento em que nosso próprio sistema solar começou a tomar forma a partir de uma massa giratória de gás. Um após o outro, descobrimos fenômenos no cosmos que não podem ser explicados pelas leis naturais que até então considerávamos válidas.
+
+Em meio a tudo isso, multifacetado, difícil de interpretar e talvez para sempre inexplicável, emerge a imagem de um universo onde tudo se relaciona com tudo, onde o microcosmo da célula individual é governado pelas mesmas forças que o macrocosmo das galáxias. Aqui, o homem existe como um fragmento momentâneo, geneticamente ligado a toda a vida neste corpo celeste, parte de sua massa vital em constante fermentação e, em última análise, nascido da matéria-prima das estrelas. Na nova imagem que se delineia, vemos a nós mesmos como constituídos de partículas elementares que já não parecem ser elementares nem partículas, mas sim algum tipo de qualidades, unidas por forças eletromagnéticas que se estendem para além do corpo observável e que, de alguma forma ainda indefinida, parecem se relacionar com eventos no cosmos, talvez a muitos anos-luz de distância.
+
+Naturalmente, nosso horizonte permanece limitado, por mais que ampliemos o domínio do nosso conhecimento. A observação humana deve se orientar, como expressou Arnold Toynbee, a partir do ponto no espaço e do momento no tempo em que nos encontramos. Podemos observar apenas o que está mais próximo no espaço, o ilimitado e, no tempo, o insondável. Quanto ao grande projeto, somos como o tecelão que trabalha nos detalhes a partir do verso de uma grande tapeçaria, cujo anverso ele jamais poderá ver.
+
+Contudo, são panoramas impressionantes que a pesquisa nos revelou ao alcançar distâncias cada vez maiores no espaço cósmico e ao penetrar cada vez mais fundo no interior da matéria. As perspectivas são fascinantes, mas também perturbadoras. Enquanto a pesquisa remodela nossa visão de mundo, ela também nos dá um novo poder sobre nós mesmos e sobre o nosso ambiente, o que pode ser decisivo para o futuro da vida neste fragmento do espaço.
+
+Talvez estejamos, na verdade, prestes a vivenciar o início de algo que poderá ser tão revolucionário para a nossa espécie quanto a postura ereta e a crescente capacidade de construir ferramentas já foram.
+
+Tudo aconteceu com uma rapidez desconcertante. Os velhos axiomas aos quais nos apegávamos têm de ceder constantemente lugar a outros novos, talvez também temporários.
+
+Existe uma lei da inércia que se aplica a axiomas e mentes, que impede novas descobertas e pontos de vista. Max Planck ilustrou isso quando escreveu amargamente em sua autobiografia que uma nova verdade científica não triunfa convencendo seus oponentes e permitindo que eles vejam a luz, mas sim porque os oponentes morrem e novas gerações crescem familiarizadas com ela.
+
+A observação de Max Planck apenas evidencia que homens e mulheres da pesquisa nem sempre possuem um aparato mais receptivo do que pessoas fora de laboratórios e observatórios. No entanto, é isso que se espera do pesquisador: que esteja preparado para sacrificar suas hipóteses mais caras quando novas descobertas surgirem no horizonte — é isso que deve distinguir o método científico do dogma teológico. Embora existam inúmeros exemplos de ortodoxia científica, a pesquisa, em geral, segue a máxima da busca e da experimentação humildes. Se não fosse assim, não teríamos chegado a esta fase em que novas descobertas nos bombardeiam a tal ponto que um texto científico — como alguém disse — muitas vezes corre o risco de se tornar obsoleto a caminho da gráfica.
+
+A principal responsabilidade da ciência reside em outro plano: apresentar ao público em geral a nova visão de mundo para a qual a pesquisa espacial e a física nuclear, a ecologia e a etologia, a geofísica e a parapsicologia contribuem com seus alicerces. Primordialmente, essa responsabilidade decorre do que podemos chamar de posição privilegiada da pesquisa. Nossos sentidos, como seres biológicos, podem ser verdadeiramente maravilhosos. Carbono, que não pode ver, hidrogênio, que não pode ouvir, oxigênio, que não pode pensar, combinaram-se em nós como uma associação através da qual o cosmos pode observar a si mesmo e ponderar sobre sua própria existência. Mas o alcance dos sentidos "convencionais" é limitado. As ciências naturais, surgidas das tentativas do homem de compreender a si mesmo, conseguiram realizar suas descobertas por meio de sentidos artificiais. É por meio deles que podemos, entre outras coisas, descobrir os órgãos sensoriais em nós mesmos que até então eram desconhecidos. São essas novas dimensões que a pesquisa — na medida do possível — deve revitalizar para o resto de nós.
+
+Essa tarefa é urgente. É também premente.
+
+Muitas coisas que só são acessíveis através do pensamento avançado e de instrumentos sofisticados afetam nosso cotidiano. E como nossas avaliações, e consequentemente nossas atitudes, são determinadas pelas ideias sobre o universo e sobre nós mesmos que nos governam a cada instante, a maneira como vivenciamos o mundo hoje e enxergamos nosso próprio papel dentro do todo terá um impacto decisivo no futuro, que será o presente da próxima geração.
+
+Aprendemos com admiração que parte do conhecimento adquirido pela humanidade está repleta de perigos que, se mal utilizados, podem ameaçar a própria essência da vida. Os maiores triunfos da ciência também acarretam os maiores riscos. Não podemos ignorar o nosso conhecimento. O que é decisivo é como o utilizamos.
+
+O aumento do conhecimento tecnológico e a falta de intuição sobre as inter-relações levaram, até agora, ao esgotamento do solo, à exploração de recursos insubstituíveis, à contaminação dos elementos vitais e à proliferação desenfreada da nossa própria espécie. Apesar de uma certa preocupação da população leiga ter tomado consciência dessas inter-relações elementares, a exploração continua, impulsionada por interesses econômicos conscientes e alimentada pela inércia inconsciente que atenua a necessidade de um novo rumo.
+
+Mais sinistras do que as consequências já conhecidas do que estamos fazendo são talvez as consequências ainda desconhecidas. Até agora, acreditávamos que a bomba atômica, a materialização das teorias de Einstein e dos experimentos de Rutherford que seus idealizadores jamais previram, era a maior ameaça à vida na Terra. Agora, repentinamente, uma intuição nos alerta para um perigo ainda maior: as detonações nucleares, ao lançarem óxidos de nitrogênio nas camadas mais altas da atmosfera, podem romper a fina camada de ozônio que nos protege da radiação letal do espaço. Já nos acostumamos com o fato de que todos os métodos utilizados para produzir energia têm efeitos negativos sobre o meio ambiente, mas agora começamos a temer que a pior poluição seja o calor gerado por toda a produção de energia e que, juntamente com outros poluentes atmosféricos, possa, em algum momento ainda desconhecido, desequilibrar a delicada balança sobre a qual repousa nosso clima global. Ironicamente, também começamos a nos perguntar se não estamos utilizando quantidades excessivas de energia para obter energia. Paralelamente à nossa manipulação do ambiente externo do qual o ser humano faz parte, também estamos começando a manipular genes e células cerebrais de uma forma que pode acarretar perigos inimagináveis ​​para a raça humana. Recentemente, cientistas da Academia Nacional de Ciências dos EUA e da Associação para o Avanço da Ciência da Grã-Bretanha soaram o alarme e exigiram a suspensão de certos experimentos genéticos, pois é impossível descartar completamente a possibilidade de produzir microrganismos que, se escaparem dos laboratórios, poderiam ter efeitos terríveis sobre a humanidade e se espalhar em uma reação em cadeia incontrolável. Em diversos pontos, ouvimos a ciência declarar sobre o nosso progresso: não conhecemos as consequências, não podemos prever os resultados.
+
+Chegamos a um estágio em nossa evolução em que não podemos evitar determinar nosso próprio destino. Seria verdadeiramente fatal se a decisão fosse deixada a cargo de uma combinação de negligência e ignorância — uma combinação daqueles que sabem, mas não agem, e daqueles que não sabem e, portanto, agem. Nessa situação, uma grande responsabilidade recai sobre os homens da ciência para que se apresentem e justifiquem suas percepções e suspeitas sobre as possibilidades e os perigos que acompanham cada nova descoberta. Isso não implica em expectativas irrealistas de que o pesquisador sempre possa prever o uso ou o mau uso que a política e a tecnologia farão de suas descobertas.
+
+O que isso implica é que o pesquisador não pode mais se isolar em seu laboratório e se ocupar com seus cíclotrons e retortas, alheio à maneira como outros podem aplicar suas teorias e observações. Em uma fase sem paralelo na história da humanidade, o pesquisador não pode mais se contentar em mostrar o que pode ser feito; ele tem uma nova responsabilidade: também a de dizer aos seus semelhantes o que deve ou não ser feito e por que algo deve ou não ser feito. Com o nosso ambiente repleto de questionamentos sobre as consequências da nossa gestão até o momento, é natural questionar se a pesquisa não deveria ser interrompida por um tempo para que se busquem as respostas a essas perguntas antes de prosseguir. Não se trata mais de mera pesquisa. Pode significar vida ou morte.
+
+Juntamente com essas tarefas puramente concretas, surge uma necessidade lógica de submeter todas as nossas ações à nova visão de mundo que começa a despontar. Se quisermos adequar nossas relações ao nosso ambiente, precisamos saber o que é a totalidade da qual somos um fragmento e determinar nosso próprio lugar e o papel que desempenhamos nesse contexto. Aqui, retorno à responsabilidade da ciência de nos dar vida às novas dimensões da realidade.
+
+Tudo isso exige uma atitude mais proativa do que aquela que, em geral, tem sido considerada compatível com a natureza da ciência. O pesquisador pode e deve influenciar o clima no qual as decisões políticas e nossos destinos são determinados.
+
+Acredito que, para muitos pesquisadores, é necessário um certo grau de autodisciplina para se lançarem no mercado. Também existem algumas dificuldades de ordem técnica. Uma delas pode ser a comunicação. Já é bastante difícil conseguir que uma mensagem seja ouvida em meio à avalanche de informações, onde aspectos importantes são facilmente ofuscados pela torrente de informações periféricas que são exageradas. Além disso, há o fato de que a visão científica precisa ser expressa em fórmulas difíceis de interpretar na linguagem cotidiana, para que possa abarcar todas as nuances e ressalvas. A linguagem é uma ferramenta muito rudimentar para expressar a complexidade das experiências simultâneas que a música ou uma fórmula matemática podem proporcionar. Muitos cientistas, que nos últimos anos se destacaram como esclarecedores e alertas, demonstraram, no entanto, que é possível romper a barreira que separa cientistas e leigos.
+
+Outra dificuldade reside no fato de que, quanto maior o volume de conhecimento, mais rígida se torna a especialização exigida. Quanto mais rigorosa a especialização, mais difícil se torna compreender as conexões na vasta quantidade de fatos. O leigo, que tateia como pode para se orientar no panorama mundial transformado, se depara com a escassez de literatura que busque coordenar nosso conhecimento em diferentes áreas em um padrão coerente. Por mais multifacetado e intrincado que nosso conhecimento tenha se tornado, e por mais mutável que seja a massa de material em muitas áreas, não há mais espaço para generalizadores individuais do tipo fomentado pelo Renascimento. A síntese abrangente exigida pelos tempos atuais deve ser essencialmente um trabalho coletivo. A educação interdisciplinar que começa a ser testada em certas instituições de ensino, e para a qual esta cidade se tornou um centro em território sueco, constitui um sinal bem-vindo de que os cientistas estão ouvindo o clamor de nossa época.
+
+Talvez o que precisamos seja simplesmente de uma nova ciência abrangente, uma ecosofia, que possa dar vida ao "Conhece-te a ti mesmo!", que era o cerne da filosofia primitiva. Por ecosofia, entendo uma maneira de ver a existência, uma tentativa de alcançar uma visão geral do todo. Permita-me aqui que um leigo, profundamente grato pela luz orientadora que as ciências naturais têm oferecido na busca por uma filosofia pessoal, amplie um pouco o leque de expectativas que possam ser direcionadas à ciência.
+
+Se quisermos esclarecer nossa situação terrena, talvez não seja suficiente, em última análise, deixar a mente absorver os axiomas que a pesquisa continuamente descobre. Provavelmente, é necessário ir além disso e adentrar um plano mais profundo.
+
+Quando o homem alcançou sua identidade como espécie, passou a viver em sintonia com o ritmo e as condições da natureza. Intuitivamente, fundiu-se ao ambiente. Traduziu sua reverência pelas forças que o cercavam em mitos e metáforas que, no início, deviam ter a frescura do orvalho. Os mitos perderam sua vitalidade quando se tornaram dogmas, algo literal. A visão de mundo restrita e definitiva que resultou desse processo passou a se opor claramente ao método científico quando este começou a se desenvolver. Os últimos séculos, portanto, ficaram marcados pela ruptura entre, por um lado, a observação imparcial e o pensamento racionalista e, por outro, crenças que se mantiveram à margem do fluxo do desenvolvimento.
+
+Essa cisão não ocorreu sem perigos. Enquanto o racionalismo progressista se ocupava em situar o homem como um fenômeno biológico e social em um contexto mais amplo, coube a uma metafísica retrógrada se interessar por seu ser interior. O hiato que surgiu entre visões congeladas em uma perspectiva passada do mundo e nosso novo conhecimento sobre o universo e sobre nós mesmos precisa agora ser preenchido por uma percepção real do mundo e da vida. Se isso não acontecer, um número crescente de pessoas buscará substitutos no ocultismo, nos narcóticos e em credos de salvação militantes, que muito em breve poderão se tornar uma séria ameaça à mente como instrumento e à democracia como modo de vida comunitária. O que precisamos, creio eu, é de uma reunificação entre mente e sentimento, entre pesquisa e vivência.
+
+A pesquisa deve ser capaz de cooperar para unir, em algo que nos dê uma visão do nosso próprio destino, tudo o que nossa busca em diversas áreas revelou. O homem pode, da perspectiva cósmica, ser uma criação tão efêmera quanto a geada da manhã — mas ainda pertencemos a esta espécie, uma espécie que, neste pequeno ponto do espaço, se desenvolveu até o ponto em que se encontra, diante da escolha entre a autodestruição e a autorrealização. Mais do que nunca, a pesquisa deve se interessar pelas necessidades mais íntimas do homem.
+
+Nas profundezas das múltiplas camadas da consciência, reside o anseio de adentrar algo maior que o próprio eu. Talvez, em última análise, seja a necessidade de sentir e reconhecer nossa afinidade com um cosmos do qual somos feitos. Nunca antes, na curta história da espécie humana, as descobertas e os axiomas da ciência estiveram tão bem preparados para atender a essas necessidades.
+
+À luz do que acreditamos saber hoje, deveria ser possível redescobrir, em um novo plano, algo da comunhão com as forças criativas da natureza que o homem primitivo intuitivamente pressentia e traduzia em mitos. Quanto mais penetramos no espaço com nossos instrumentos, mais intensamente experimentamos o mistério em um universo que não é tão mecânico quanto supunham os sucessores mais próximos de Newton — o mistério está lá, em alguns aspectos ainda maior, desde que descartamos os mitos. Experimentadas adequadamente, as descobertas da ciência podem nos encher de reverência pelo fato de que nós, como consciências observadoras e investigadoras, tivemos a permissão de vislumbrar, ainda que fugazmente, a vertiginosa totalidade do tempo e do espaço. Talvez seja, em última análise, essa atitude que precisamos para esclarecer nossa situação como habitantes da Terra.
+
+A ciência não pode nos dar nenhuma verdade absoluta, nem uma resposta direta sobre para onde estamos indo. Mas pode nos fornecer uma luz guia para facilitar nossa jornada pela paisagem que é nosso destino percorrer.
+
+
+<p align="center">✧✧✧</p>
+
+<details>
+  <summary>Tags e outras nerdices</summary>
+  
+  ### Dados de Imprensa e Arquivo
+  - **Formato do Material:** Ensaio
+  - **Linhagem/Tradição:** Teosofia Moderna
+  - **Período Histórico:** Século XX (1975)
+  - **Autor:** Rolf Edberg
+  - **Publicação de Origem:** _Revista Sunrise: Theosophic Perspectives_
+  - **Instituição Publicadora:** Theosophical University Press
+  - **Mês/Edição Original:** Janeiro
+  - **Idioma Original:** Inglês
+  
+  ### Bastidores da Tradução
+  - **Data da Tradução:** 05.2026
+  - **Projeto:** Projeto Pessoal
+  - **Status do Texto:** Traduzido integralmente (Concluído)
+
+  ### Conexões e Busca
+  - **Tags Principais:** Ecologia, Rolf Edberg, Responsabilidade Científica, Ecosofia, Holismo, Filosofia da Ciência, Racionalismo, Consciência Cósmica
+  - **Tags Adicionais:** Bioética, Transdisciplinaridade, Epistemologia, Humanismo, Misticismo Natural, Filosofia Ambiental
+  - **Backlink:** 01-edberg-panorama-mundial.md
+
+<sub>💬 *Gostaria de ver um artigo específico da Sunrise traduzido ou catalogado por aqui? Pedidos de tradução e furos na fila cronológica estão sempre abertos! Envie sua sugestão no meu [Ask Box (Cyprian's Cafe)](https://cyprianscafe.tumblr.com/askme).*</sub>   
+<sub>📧 *Se você quiser ler este artigo no idioma original, ou qualquer outro material de meus repositórios, arquivos ou blogs, envie um e-mail para: cyprianscafe@gmail.com*</sub>
+  
+</details>
