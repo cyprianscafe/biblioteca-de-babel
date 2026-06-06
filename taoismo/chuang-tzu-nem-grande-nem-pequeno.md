@@ -40,7 +40,7 @@ Portanto, o homem verdadeiramente grande, embora não prejudique os outros, não
   
   ### Dados de Imprensa e Arquivo
   - **Formato do Material:** Parábola
-  - **Linhagem/Tradição:** Teosofia Moderna
+  - **Linhagem/Tradição:** Taoismo
   - **Período Histórico:** Século XX (1974)
   - **Autor:** Chuang Tzu
   - **Publicação de Origem:** _Revista Sunrise: Theosophic Perspectives_
