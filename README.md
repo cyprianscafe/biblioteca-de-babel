@@ -16,10 +16,15 @@
 
 ---
 
-## 🏛️ Sobre o Arquivo
+## 🏛️ O Que é Meta-Religião?
 
-Este repositório funciona como o fichário público do blog [**Cyprian's Cafe**](https://cyprianscafe.tumblr.com/). Aqui ficam guardados trechos menores de livros, pequenos recortes teológicos, debates estruturados sobre dogmática e análises isoladas de arte sacra que complementam os ensaios de história e sociologia das religiões postados na minha página principal.
+Se a teologia tenta falar *de* Deus ou de um sistema de crenças de dentro para fora, a Meta-Religião dá um passo para trás. Ela se posiciona na periferia do fenômeno para observar a engrenagem humana. 
 
+Esta pasta funciona como a espinha dorsal analítica da *Biblioteca de Babel*, catalogando textos que investigam o próprio mecanismo da crença:
+
+*   **Sociologia & Antropologia:** Como os mitos moldam estruturas sociais, geram coesão comunitária e como os rituais evoluem ou sofrem mutações com o tempo.
+*   **Epistemologia & História:** A evolução do pensamento acadêmico que transformou a religião em um campo de estudo secular e científico.
+*   **O Homo Religiosus:** Ensaios e pesquisas sobre a necessidade intrínseca da espécie humana de criar símbolos, projetar o transcendental e buscar o numinoso.
 
 ---
 
@@ -27,26 +32,15 @@ Este repositório funciona como o fichário público do blog [**Cyprian's Cafe**
 
 Se você encontrar algum erro crasso de digitação, tiver dúvidas sobre os termos de uma tradução específica ou quiser propor correções acadêmicas, não hesite em entrar em contato! 
 
-Como este espaço funciona como um repositório puro de arquivos, o canal aberto para conversas continua sendo a nossa comunidade:
+Como este espaço funciona como um repositório puro de arquivos, o canal aberto para conversas continua sendo o meu blog:
 
 *   ✉️ **Envie sua mensagem em:** [Cyprian's Cafe - Ask Box](https://cyprianscafe.tumblr.com/askme)
 *   ☕ **Acompanhe os ensaios contextualizados em:** [Cyprian's Cafe Blog](https://cyprianscafe.tumblr.com)
 
 ---
 
-<p align="center">
-  <samp>🌐 <b>REDE DE ARQUIVOS CIPRIANO</b> 🌐</samp><br>
-  Navegue pelas diferentes prateleiras do acervo público:
-</p>
-
-  📜 <a href="https://github.com/cyprianscafe/scriptorium"><b>Scriptorium</b></a> (Fontes Primárias & Íntegras) <br>
-  🔮 <a href="https://github.com/cyprianscafe/ars-oculta"><b>Ars-Oculta</b></a> (Esoterismo & Alta Magia) <br>
-
----
-
-<p align="center">
-  <sub>
-    <i>"Fiz um esforço incessante não para ridicularizar, não para lamentar, nem para desprezar as ações humanas, mas para compreendê-las."</i> <br>
-    — Baruch Spinoza, filósofo holandês do século XVII
-  </sub>
-</p>
+<div align="center">
+  <sub>"O sagrado é um elemento na estrutura da consciência, não uma etapa na história da consciência."</sub>    
+  
+  <sub>—Mircea Eliade</sub>
+</div>
