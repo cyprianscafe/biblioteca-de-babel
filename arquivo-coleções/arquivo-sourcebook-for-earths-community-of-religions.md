@@ -21,3 +21,8 @@ Coletânea de vários autores, organizada por Joel Beversluis, que reúne ensaio
 
 <p align="center">✧✧✧</p>
 
+## Pluralismo
+
+* [Rumo a uma espiritualidade global](https://github.com/cyprianscafe/biblioteca-de-babel/blob/main/pluralismo/mische-rumo-a-espiritualidade-global.md) - por **Dr. Patricia Mische**
+
+<p align="center">✧✧✧</p>
