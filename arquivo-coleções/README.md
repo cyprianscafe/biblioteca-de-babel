@@ -10,9 +10,12 @@ Considere esta página como um mapa. Para evitar a duplicação de arquivos por 
 
 # Coleções
 
-## Revistas e projetos literários
+## Revistas
 
-* **[Revista Sunrise (Theosophical University Press)](https://github.com/cyprianscafe/ars-oculta/tree/main/teosofia/sunrise-arquivo)** — Periódico teosófico que inclui edições traduzidas sobre religião comparada, filosofia e pensamento esotérico. Esta coleção abrange **apenas** artigos publicados entre 1970 e 2007. Embora eu já tenha concluído mais da metade das traduções, decidi interromper a publicação delas por enquanto. Peço um pouco de paciência; pretendo publicar cerca de 600 artigos traduzidos até fevereiro de 2027. Este é um projeto imenso para ser realizado manualmente; por isso, ele é bastante básico e, até o momento, não conta com um índice.
+* **[Revista Sunrise (Theosophical University Press)](https://github.com/cyprianscafe/ars-oculta/tree/main/teosofia/sunrise-arquivo)** — Periódico teosófico que inclui edições traduzidas sobre religião comparada, filosofia e pensamento esotérico. Esta coleção abrange **apenas** artigos publicados entre 1970 e 2007. Embora eu já tenha concluído mais da metade das traduções, decidi interromper a publicação delas por enquanto. Peço um pouco de paciência; pretendo publicar cerca de 600 artigos traduzidos em breve. Este é um projeto imenso para ser realizado manualmente; por isso, ele é bastante básico e, até o momento, não conta com um índice.
+* **[The Occult Review](https://github.com/cyprianscafe/ars-oculta/tree/main/the-occult-review-arquivo)** - Revista mensal ilustrada britânica, publicada entre 1905 e 1951, que trazia artigos e correspondências de muitos ocultistas e autores notáveis ​​da época. Embora eu tenha muito material deste periódico para traduzir, isso não é minha prioridade; portanto, farei as traduções à medida que me deparar com esses textos em meus arquivos.
+
+## Projetos e coletâneas
 
 * **[A Sourcebook for Earth's Community of Religions](https://github.com/cyprianscafe/biblioteca-de-babel/blob/main/arquivo-cole%C3%A7%C3%B5es/arquivo-sourcebook-for-earths-community-of-religions.md)** — Coletânea de vários autores, organizada por Joel Beversluis, que reúne ensaios fundamentais, declarações e resumos referentes às principais tradições mundiais. Como cada capítulo aborda uma fé ou movimento específico, os textos traduzidos encontram-se distribuídos nas pastas correspondentes a cada tradição, em vez de estarem reunidos em um único local; no entanto, ao clicar no link, você poderá acessar uma lista completa de todos os capítulos que traduzi e arquivei até o momento.
 
