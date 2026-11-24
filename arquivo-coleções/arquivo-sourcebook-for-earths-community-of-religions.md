@@ -13,3 +13,9 @@ Coletânea de vários autores, organizada por Joel Beversluis, que reúne ensaio
 * [ISKCON e a Cidade de Deus](https://github.com/cyprianscafe/novos-movimentos-religiosos/blob/main/hare-krishna/iskcon.md) 
 
 <p align="center">✧✧✧</p>
+
+## Cristianismo
+
+* [Cristianismo afro-americano](https://github.com/cyprianscafe/religioes-abraamicas/blob/main/cristianismo/movimentos/daniels-cristianismo-afro-americano.md) - por **David D. Daniels**
+
+<p align="center">✧✧✧</p>
