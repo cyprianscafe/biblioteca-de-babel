@@ -32,3 +32,7 @@ Coletânea de vários autores, organizada por Joel Beversluis, que reúne ensaio
 * [Rumo a uma espiritualidade global](https://github.com/cyprianscafe/biblioteca-de-babel/blob/main/pluralismo/mische-rumo-a-espiritualidade-global.md) - por **Dr. Patricia Mische**
 
 <p align="center">✧✧✧</p>
+
+## Teosofia
+
+* [Teosofia: Um Retrato](https://github.com/cyprianscafe/ars-oculta/blob/main/teosofia/algeo-teosofia-um-retrato.md) - por **John Algeo**
