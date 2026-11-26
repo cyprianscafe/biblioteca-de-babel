@@ -6,6 +6,12 @@ Bem-vindo ao índice principal de séries completas, sites na íntegra e grandes
 
 Considere esta página como um mapa. Para evitar a duplicação de arquivos por toda parte, os textos originais permanecem nas pastas que melhor correspondem ao seu conteúdo. Se uma coleção pertence a uma corrente específica, ela fica alocada na seção do arquivo dedicada a essa tradição. Se ela abrange diversas crenças simultaneamente, seus itens são distribuídos pelas pastas correspondentes e reunidos aqui.
 
+## Index
+
+* **[Revistas](https://github.com/cyprianscafe/biblioteca-de-babel/tree/main/arquivo-cole%C3%A7%C3%B5es#revistas)**
+* **[Projetos e coletâneas](https://github.com/cyprianscafe/biblioteca-de-babel/tree/main/arquivo-cole%C3%A7%C3%B5es#projetos-e-colet%C3%A2neas)**
+* **[Websites](https://github.com/cyprianscafe/biblioteca-de-babel/tree/main/arquivo-cole%C3%A7%C3%B5es#websites)**
+
 <p align="center">✧✧✧</p>
 
 # Coleções
