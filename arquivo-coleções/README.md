@@ -24,7 +24,7 @@ Considere esta página como um mapa. Para evitar a duplicação de arquivos por 
 ## Projetos e coletâneas
 
 * **[A Sourcebook for Earth's Community of Religions](https://github.com/cyprianscafe/biblioteca-de-babel/blob/main/arquivo-cole%C3%A7%C3%B5es/arquivo-sourcebook-for-earths-community-of-religions.md)** — Coletânea de vários autores, organizada por Joel Beversluis, que reúne ensaios fundamentais, declarações e resumos referentes às principais tradições mundiais. Como cada capítulo aborda uma fé ou movimento específico, os textos traduzidos encontram-se distribuídos nas pastas correspondentes a cada tradição, em vez de estarem reunidos em um único local; no entanto, ao clicar no link, você poderá acessar uma lista completa de todos os capítulos que traduzi e arquivei até o momento.
-* **[The Typhonian Tomes](https://github.com/cyprianscafe/ars-oculta/tree/main/autores/kenneth-grant/analise/typhonian-tomes)** - Série de resenhas e explicações de John L. Smith sobre os escritos de Kenneth Grant, produzidas entre 1997 e 1998.
+* **[The Typhonian Tomes](https://github.com/cyprianscafe/ars-oculta/tree/main/autores/kenneth-grant/analise/typhonian-tomes)** - Série de resenhas críticas e explicações de John L. Smith sobre os escritos de Kenneth Grant, produzidas entre 1997 e 1998.
 
 ## Websites
 
